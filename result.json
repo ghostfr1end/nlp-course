@@ -1,0 +1,1576 @@
+{
+ "name": "фэшн транзакция",
+ "type": "public_channel",
+ "id": 1862341476,
+ "messages": [
+  {
+   "id": 8702,
+   "type": "message",
+   "date": "2025-05-01T18:06:58",
+   "date_unixtime": "1746112018",
+   "edited": "2025-05-01T18:12:41",
+   "edited_unixtime": "1746112361",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 56845,
+   "width": 600,
+   "height": 866,
+   "text": [
+    "Сегодня особенно хочется верховных уютов и красивых вещей. Поэтому собрала на фристайле подборку на Lamoda из разного. Что нашла по приятным ценам:\n\n",
+    {
+     "type": "text_link",
+     "text": "черное постельное белье",
+     "href": "https://www.lamoda.ru/p/mp002xu08zw8/home_accs-unison-postelnoe-bele-spalnoe/"
+    },
+    " — 5232₽\n",
+    {
+     "type": "text_link",
+     "text": "набор тарелок",
+     "href": "https://www.lamoda.ru/p/mp002xu091sq/home_accs-tkano-nabor-tarelok/"
+    },
+    " — 4266₽\n",
+    {
+     "type": "text_link",
+     "text": "ваза",
+     "href": "https://www.lamoda.ru/p/mp002xu08wk7/home_accs-bergensonbjorn-vaza/"
+    },
+    " — 2232₽\n",
+    {
+     "type": "text_link",
+     "text": "подсвечники",
+     "href": "https://www.lamoda.ru/p/mp002xu08z2d/home_accs-tkano-podsvechniki-sht/"
+    },
+    " — 2366₽\n",
+    {
+     "type": "text_link",
+     "text": "кружка",
+     "href": "https://www.lamoda.ru/p/mp002xu08awt/home_accs-mandarindecor-kruzhka/"
+    },
+    " — 490₽\n",
+    {
+     "type": "text_link",
+     "text": "свеча",
+     "href": "https://www.lamoda.ru/p/mp002xu0949g/home_accs-takohome-svecha-aromaticheskaya/"
+    },
+    " — 2976₽\n",
+    {
+     "type": "text_link",
+     "text": "подсвечник",
+     "href": "https://www.lamoda.ru/p/mp002xu0cvkn/home_accs-tkano-podsvechnik/"
+    },
+    " — 1606₽\n",
+    {
+     "type": "text_link",
+     "text": "тарелка",
+     "href": "https://www.lamoda.ru/p/rtladw426401/home_accs-odaryadarya-tarelka/"
+    },
+    " — 2260₽\n",
+    {
+     "type": "text_link",
+     "text": "набор бокалов",
+     "href": "https://www.lamoda.ru/p/mp002xu08pz4/home_accs-mandarindecor-nabor-bokalov/"
+    },
+    " — 2792₽"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Сегодня особенно хочется верховных уютов и красивых вещей. Поэтому собрала на фристайле подборку на Lamoda из разного. Что нашла по приятным ценам:\n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "черное постельное белье",
+     "href": "https://www.lamoda.ru/p/mp002xu08zw8/home_accs-unison-postelnoe-bele-spalnoe/"
+    },
+    {
+     "type": "plain",
+     "text": " — 5232₽\n"
+    },
+    {
+     "type": "text_link",
+     "text": "набор тарелок",
+     "href": "https://www.lamoda.ru/p/mp002xu091sq/home_accs-tkano-nabor-tarelok/"
+    },
+    {
+     "type": "plain",
+     "text": " — 4266₽\n"
+    },
+    {
+     "type": "text_link",
+     "text": "ваза",
+     "href": "https://www.lamoda.ru/p/mp002xu08wk7/home_accs-bergensonbjorn-vaza/"
+    },
+    {
+     "type": "plain",
+     "text": " — 2232₽\n"
+    },
+    {
+     "type": "text_link",
+     "text": "подсвечники",
+     "href": "https://www.lamoda.ru/p/mp002xu08z2d/home_accs-tkano-podsvechniki-sht/"
+    },
+    {
+     "type": "plain",
+     "text": " — 2366₽\n"
+    },
+    {
+     "type": "text_link",
+     "text": "кружка",
+     "href": "https://www.lamoda.ru/p/mp002xu08awt/home_accs-mandarindecor-kruzhka/"
+    },
+    {
+     "type": "plain",
+     "text": " — 490₽\n"
+    },
+    {
+     "type": "text_link",
+     "text": "свеча",
+     "href": "https://www.lamoda.ru/p/mp002xu0949g/home_accs-takohome-svecha-aromaticheskaya/"
+    },
+    {
+     "type": "plain",
+     "text": " — 2976₽\n"
+    },
+    {
+     "type": "text_link",
+     "text": "подсвечник",
+     "href": "https://www.lamoda.ru/p/mp002xu0cvkn/home_accs-tkano-podsvechnik/"
+    },
+    {
+     "type": "plain",
+     "text": " — 1606₽\n"
+    },
+    {
+     "type": "text_link",
+     "text": "тарелка",
+     "href": "https://www.lamoda.ru/p/rtladw426401/home_accs-odaryadarya-tarelka/"
+    },
+    {
+     "type": "plain",
+     "text": " — 2260₽\n"
+    },
+    {
+     "type": "text_link",
+     "text": "набор бокалов",
+     "href": "https://www.lamoda.ru/p/mp002xu08pz4/home_accs-mandarindecor-nabor-bokalov/"
+    },
+    {
+     "type": "plain",
+     "text": " — 2792₽"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 20,
+      "emoji": "🔥"
+     },
+     {
+      "type": "custom_emoji",
+      "count": 6,
+      "document_id": "stickers/sticker.webp"
+     },
+     {
+      "type": "emoji",
+      "count": 5,
+      "emoji": "❤"
+     }
+    ]
+  },
+  {
+   "id": 8703,
+   "type": "message",
+   "date": "2025-05-01T18:06:58",
+   "date_unixtime": "1746112018",
+   "edited": "2025-05-01T18:07:01",
+   "edited_unixtime": "1746112021",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 27221,
+   "width": 600,
+   "height": 866,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8704,
+   "type": "message",
+   "date": "2025-05-01T18:06:58",
+   "date_unixtime": "1746112018",
+   "edited": "2025-05-01T18:07:01",
+   "edited_unixtime": "1746112021",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 20769,
+   "width": 600,
+   "height": 866,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8705,
+   "type": "message",
+   "date": "2025-05-01T18:06:58",
+   "date_unixtime": "1746112018",
+   "edited": "2025-05-01T18:07:01",
+   "edited_unixtime": "1746112021",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 17613,
+   "width": 600,
+   "height": 866,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8706,
+   "type": "message",
+   "date": "2025-05-01T18:06:58",
+   "date_unixtime": "1746112018",
+   "edited": "2025-05-01T18:07:01",
+   "edited_unixtime": "1746112021",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 13322,
+   "width": 600,
+   "height": 866,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8707,
+   "type": "message",
+   "date": "2025-05-01T18:06:58",
+   "date_unixtime": "1746112018",
+   "edited": "2025-05-01T18:07:01",
+   "edited_unixtime": "1746112021",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 20268,
+   "width": 600,
+   "height": 866,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8708,
+   "type": "message",
+   "date": "2025-05-01T18:06:58",
+   "date_unixtime": "1746112018",
+   "edited": "2025-05-01T18:07:01",
+   "edited_unixtime": "1746112021",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 10757,
+   "width": 600,
+   "height": 866,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8709,
+   "type": "message",
+   "date": "2025-05-01T18:06:58",
+   "date_unixtime": "1746112018",
+   "edited": "2025-05-01T18:07:01",
+   "edited_unixtime": "1746112021",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 34430,
+   "width": 600,
+   "height": 866,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8710,
+   "type": "message",
+   "date": "2025-05-01T18:06:58",
+   "date_unixtime": "1746112018",
+   "edited": "2025-05-01T18:07:01",
+   "edited_unixtime": "1746112021",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 23233,
+   "width": 762,
+   "height": 1100,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8711,
+   "type": "message",
+   "date": "2025-05-01T21:57:15",
+   "date_unixtime": "1746125835",
+   "edited": "2025-05-01T21:57:52",
+   "edited_unixtime": "1746125872",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 147492,
+   "width": 720,
+   "height": 1280,
+   "text": "Высший аркан выходного дня выглядит так. Провела весь день на максимально расслабленном в своей новой пижаме от Cache-Cache. Я в восторге от каждой детали, начиная от элегантной упаковки заканчивая кроем. Про принт вообще молчу (он 10/10). И каждый раз, проходя мимо зеркала, карты таро меня безумно веселят",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Высший аркан выходного дня выглядит так. Провела весь день на максимально расслабленном в своей новой пижаме от Cache-Cache. Я в восторге от каждой детали, начиная от элегантной упаковки заканчивая кроем. Про принт вообще молчу (он 10/10). И каждый раз, проходя мимо зеркала, карты таро меня безумно веселят"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "custom_emoji",
+      "count": 56,
+      "document_id": "video_files/sticker.webm"
+     },
+     {
+      "type": "emoji",
+      "count": 24,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 16,
+      "emoji": "💘"
+     }
+    ]
+  },
+  {
+   "id": 8712,
+   "type": "message",
+   "date": "2025-05-01T21:57:15",
+   "date_unixtime": "1746125835",
+   "edited": "2025-05-01T21:57:18",
+   "edited_unixtime": "1746125838",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 93891,
+   "width": 719,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8713,
+   "type": "message",
+   "date": "2025-05-02T14:06:04",
+   "date_unixtime": "1746183964",
+   "edited": "2025-05-02T14:06:07",
+   "edited_unixtime": "1746183967",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 53827,
+   "width": 960,
+   "height": 1280,
+   "text": [
+    "Смотрим на новинки моего любимого бренда D’heygere. Обожаю их за то, что каждый предмет мемнее другого. Чего стоит, например, ",
+    {
+     "type": "text_link",
+     "text": "кольцо",
+     "href": "https://t.me/fashiontranzakciya/3687"
+    },
+    " в виде коробки с кольцом. Или ",
+    {
+     "type": "text_link",
+     "text": "серьги-ногти.",
+     "href": "https://t.me/fashiontranzakciya/8289"
+    },
+    " Сразу говорю, что такое нужно уметь носить и если вы серьезно относитесь к себе, то вам не понравится. Для понимания и наглядности принесла Анастасию Миронову в их серьгах в виде дверных ручек. Тот самый случай, когда человек идеально чувствует. А не бездумно употребляет очередную «модную» придумку очередного бренда"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Смотрим на новинки моего любимого бренда D’heygere. Обожаю их за то, что каждый предмет мемнее другого. Чего стоит, например, "
+    },
+    {
+     "type": "text_link",
+     "text": "кольцо",
+     "href": "https://t.me/fashiontranzakciya/3687"
+    },
+    {
+     "type": "plain",
+     "text": " в виде коробки с кольцом. Или "
+    },
+    {
+     "type": "text_link",
+     "text": "серьги-ногти.",
+     "href": "https://t.me/fashiontranzakciya/8289"
+    },
+    {
+     "type": "plain",
+     "text": " Сразу говорю, что такое нужно уметь носить и если вы серьезно относитесь к себе, то вам не понравится. Для понимания и наглядности принесла Анастасию Миронову в их серьгах в виде дверных ручек. Тот самый случай, когда человек идеально чувствует. А не бездумно употребляет очередную «модную» придумку очередного бренда"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 37,
+      "emoji": "❤‍🔥"
+     },
+     {
+      "type": "custom_emoji",
+      "count": 15,
+      "document_id": "video_files/sticker (1).webm"
+     },
+     {
+      "type": "emoji",
+      "count": 4,
+      "emoji": "😁"
+     },
+     {
+      "type": "emoji",
+      "count": 3,
+      "emoji": "❤"
+     }
+    ]
+  },
+  {
+   "id": 8714,
+   "type": "message",
+   "date": "2025-05-02T14:06:04",
+   "date_unixtime": "1746183964",
+   "edited": "2025-05-02T14:06:07",
+   "edited_unixtime": "1746183967",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 165642,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8715,
+   "type": "message",
+   "date": "2025-05-02T14:06:04",
+   "date_unixtime": "1746183964",
+   "edited": "2025-05-02T14:06:07",
+   "edited_unixtime": "1746183967",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 41534,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8716,
+   "type": "message",
+   "date": "2025-05-02T14:06:04",
+   "date_unixtime": "1746183964",
+   "edited": "2025-05-02T14:06:07",
+   "edited_unixtime": "1746183967",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 35621,
+   "width": 620,
+   "height": 827,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8717,
+   "type": "message",
+   "date": "2025-05-02T14:06:04",
+   "date_unixtime": "1746183964",
+   "edited": "2025-05-02T14:06:07",
+   "edited_unixtime": "1746183967",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 39224,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8718,
+   "type": "message",
+   "date": "2025-05-02T14:06:04",
+   "date_unixtime": "1746183964",
+   "edited": "2025-05-02T14:06:07",
+   "edited_unixtime": "1746183967",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 47846,
+   "width": 608,
+   "height": 810,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8719,
+   "type": "message",
+   "date": "2025-05-03T16:46:13",
+   "date_unixtime": "1746279973",
+   "edited": "2025-05-03T16:46:17",
+   "edited_unixtime": "1746279977",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 109851,
+   "width": 736,
+   "height": 978,
+   "text": "Каждый раз, когда я ищу референсы съемок для своего бренда украшений, меня не покидает стойкое ощущение, что уже все на свете снято. Вот смотрю на эту съемку украшений 1976 года с Лизой Тейлор для Dior и у меня идут мурашки от красоты. Какая же мощь. В Pinterest, конечно, есть все и даже больше, но хочется новых источников для вдохновения. Коллеги, буду рада вашим советам в комментариях",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Каждый раз, когда я ищу референсы съемок для своего бренда украшений, меня не покидает стойкое ощущение, что уже все на свете снято. Вот смотрю на эту съемку украшений 1976 года с Лизой Тейлор для Dior и у меня идут мурашки от красоты. Какая же мощь. В Pinterest, конечно, есть все и даже больше, но хочется новых источников для вдохновения. Коллеги, буду рада вашим советам в комментариях"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 60,
+      "emoji": "❤"
+     },
+     {
+      "type": "custom_emoji",
+      "count": 29,
+      "document_id": "stickers/sticker (1).webp"
+     },
+     {
+      "type": "emoji",
+      "count": 6,
+      "emoji": "❤‍🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 6,
+      "emoji": "🤗"
+     }
+    ]
+  },
+  {
+   "id": 8720,
+   "type": "message",
+   "date": "2025-05-03T16:46:13",
+   "date_unixtime": "1746279973",
+   "edited": "2025-05-03T16:46:16",
+   "edited_unixtime": "1746279976",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 64599,
+   "width": 1024,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8721,
+   "type": "message",
+   "date": "2025-05-03T16:46:14",
+   "date_unixtime": "1746279974",
+   "edited": "2025-05-03T16:46:16",
+   "edited_unixtime": "1746279976",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 81297,
+   "width": 1024,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8722,
+   "type": "message",
+   "date": "2025-05-03T16:46:14",
+   "date_unixtime": "1746279974",
+   "edited": "2025-05-03T16:46:16",
+   "edited_unixtime": "1746279976",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 57568,
+   "width": 481,
+   "height": 619,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8723,
+   "type": "message",
+   "date": "2025-05-03T16:46:14",
+   "date_unixtime": "1746279974",
+   "edited": "2025-05-03T16:46:16",
+   "edited_unixtime": "1746279976",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 129761,
+   "width": 1024,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8724,
+   "type": "message",
+   "date": "2025-05-03T19:19:26",
+   "date_unixtime": "1746289166",
+   "edited": "2025-05-03T19:19:41",
+   "edited_unixtime": "1746289181",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "text": [
+    "Вопрос снят после прочтения ",
+    {
+     "type": "text_link",
+     "text": "этого",
+     "href": "https://t.me/fugoodtips/368"
+    },
+    " поста Иры. Она арт-директор и режиссер в Befree, а значит точно шарит. Беру лайфхак в работу и вам искренне советую!"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Вопрос снят после прочтения "
+    },
+    {
+     "type": "text_link",
+     "text": "этого",
+     "href": "https://t.me/fugoodtips/368"
+    },
+    {
+     "type": "plain",
+     "text": " поста Иры. Она арт-директор и режиссер в Befree, а значит точно шарит. Беру лайфхак в работу и вам искренне советую!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 16,
+      "emoji": "💯"
+     },
+     {
+      "type": "emoji",
+      "count": 7,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 2,
+      "emoji": "❤"
+     }
+    ]
+  },
+  {
+   "id": 8725,
+   "type": "message",
+   "date": "2025-05-04T12:37:38",
+   "date_unixtime": "1746351458",
+   "edited": "2025-05-04T12:41:34",
+   "edited_unixtime": "1746351694",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 105464,
+   "width": 960,
+   "height": 1280,
+   "text": "Хотелось бы проводить свои майские в выходном режиме, но пока нет такой возможности. Вчера снимали новинки с Дульси в магазине. А под конец смены к нам заглянул в гости Веня в своем леопардовом свитере и рабочий процесс встал. Вот такие милые бэки получились",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Хотелось бы проводить свои майские в выходном режиме, но пока нет такой возможности. Вчера снимали новинки с Дульси в магазине. А под конец смены к нам заглянул в гости Веня в своем леопардовом свитере и рабочий процесс встал. Вот такие милые бэки получились"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "custom_emoji",
+      "count": 50,
+      "document_id": "video_files/sticker (2).webm"
+     },
+     {
+      "type": "emoji",
+      "count": 23,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 13,
+      "emoji": "💘"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "❤‍🔥"
+     }
+    ]
+  },
+  {
+   "id": 8726,
+   "type": "message",
+   "date": "2025-05-04T12:37:38",
+   "date_unixtime": "1746351458",
+   "edited": "2025-05-04T12:37:41",
+   "edited_unixtime": "1746351461",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 50147,
+   "width": 710,
+   "height": 947,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8727,
+   "type": "message",
+   "date": "2025-05-04T12:37:38",
+   "date_unixtime": "1746351458",
+   "edited": "2025-05-04T12:37:41",
+   "edited_unixtime": "1746351461",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 102753,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8728,
+   "type": "message",
+   "date": "2025-05-04T12:37:38",
+   "date_unixtime": "1746351458",
+   "edited": "2025-05-04T12:37:41",
+   "edited_unixtime": "1746351461",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 128857,
+   "width": 959,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8729,
+   "type": "message",
+   "date": "2025-05-04T12:37:38",
+   "date_unixtime": "1746351458",
+   "edited": "2025-05-04T12:37:41",
+   "edited_unixtime": "1746351461",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 122533,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8730,
+   "type": "message",
+   "date": "2025-05-04T12:37:38",
+   "date_unixtime": "1746351458",
+   "edited": "2025-05-04T12:37:41",
+   "edited_unixtime": "1746351461",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 97862,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8731,
+   "type": "message",
+   "date": "2025-05-04T12:37:38",
+   "date_unixtime": "1746351458",
+   "edited": "2025-05-04T12:37:41",
+   "edited_unixtime": "1746351461",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 187985,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8732,
+   "type": "message",
+   "date": "2025-05-04T12:37:38",
+   "date_unixtime": "1746351458",
+   "edited": "2025-05-04T12:37:41",
+   "edited_unixtime": "1746351461",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 115752,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8733,
+   "type": "message",
+   "date": "2025-05-04T12:37:39",
+   "date_unixtime": "1746351459",
+   "edited": "2025-05-04T12:37:41",
+   "edited_unixtime": "1746351461",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 111403,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8734,
+   "type": "message",
+   "date": "2025-05-04T17:59:36",
+   "date_unixtime": "1746370776",
+   "edited": "2025-05-04T17:59:40",
+   "edited_unixtime": "1746370780",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 115696,
+   "width": 959,
+   "height": 1280,
+   "text": [
+    "Так выглядит ballerina cappuccino курильщика. Пятипалая обувь ждала своего часа и он настал, правда, ненадолго. Детализация образа:\n\nлонгслив illullln\nкарго Carne Bollente\nбалетки Vibram Fivefingers\n\n",
+    {
+     "type": "hashtag",
+     "text": "#ootd"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Так выглядит ballerina cappuccino курильщика. Пятипалая обувь ждала своего часа и он настал, правда, ненадолго. Детализация образа:\n\nлонгслив illullln\nкарго Carne Bollente\nбалетки Vibram Fivefingers\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#ootd"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "custom_emoji",
+      "count": 60,
+      "document_id": "stickers/sticker (2).webp"
+     },
+     {
+      "type": "emoji",
+      "count": 35,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 6,
+      "emoji": "🔥"
+     }
+    ]
+  },
+  {
+   "id": 8735,
+   "type": "message",
+   "date": "2025-05-04T17:59:36",
+   "date_unixtime": "1746370776",
+   "edited": "2025-05-04T17:59:39",
+   "edited_unixtime": "1746370779",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 121976,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8736,
+   "type": "message",
+   "date": "2025-05-04T18:14:56",
+   "date_unixtime": "1746371696",
+   "edited": "2025-05-05T07:58:17",
+   "edited_unixtime": "1746421097",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "text": "Неофициальный паблик фанатов пятипалой обуви тут!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Неофициальный паблик фанатов пятипалой обуви тут!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 9,
+      "emoji": "❤"
+     }
+    ]
+  },
+  {
+   "id": 8737,
+   "type": "message",
+   "date": "2025-05-04T18:14:56",
+   "date_unixtime": "1746371696",
+   "edited": "2025-05-04T18:15:10",
+   "edited_unixtime": "1746371710",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "forwarded_from": "Valeriia Tabrósko",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 228621,
+   "width": 960,
+   "height": 1280,
+   "text": [
+    "Расчехляем five fingers ",
+    {
+     "type": "custom_emoji",
+     "text": "🌝",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Расчехляем five fingers "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌝",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 52,
+      "emoji": "🍓"
+     },
+     {
+      "type": "custom_emoji",
+      "count": 29,
+      "document_id": "stickers/AnimatedSticker.tgs"
+     },
+     {
+      "type": "emoji",
+      "count": 18,
+      "emoji": "❤"
+     }
+    ]
+  },
+  {
+   "id": 8738,
+   "type": "message",
+   "date": "2025-05-05T12:59:39",
+   "date_unixtime": "1746439179",
+   "edited": "2025-05-05T12:59:43",
+   "edited_unixtime": "1746439183",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 86336,
+   "width": 960,
+   "height": 1280,
+   "text": [
+    "Ваша (я) насмотрелась в интернетах на патчи от акне и пошла на маркетплейсы их заказывать. Меня одолели глубокие точечные воспаления на подбородке и мне показалось, что ",
+    {
+     "type": "text_link",
+     "text": "наклейки",
+     "href": "https://ozon.ru/t/THkT3va"
+    },
+    " с Hello Kitty за 156₽ решат эту проблему. Выглядит все это мероприятие на лице крайне сомнительно, но мило. Носить я это, конечно же, не буду. В комментариях оставила примерку на лице"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ваша (я) насмотрелась в интернетах на патчи от акне и пошла на маркетплейсы их заказывать. Меня одолели глубокие точечные воспаления на подбородке и мне показалось, что "
+    },
+    {
+     "type": "text_link",
+     "text": "наклейки",
+     "href": "https://ozon.ru/t/THkT3va"
+    },
+    {
+     "type": "plain",
+     "text": " с Hello Kitty за 156₽ решат эту проблему. Выглядит все это мероприятие на лице крайне сомнительно, но мило. Носить я это, конечно же, не буду. В комментариях оставила примерку на лице"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "custom_emoji",
+      "count": 52,
+      "document_id": "video_files/sticker (3).webm"
+     },
+     {
+      "type": "emoji",
+      "count": 13,
+      "emoji": "💅"
+     },
+     {
+      "type": "emoji",
+      "count": 10,
+      "emoji": "💘"
+     },
+     {
+      "type": "emoji",
+      "count": 6,
+      "emoji": "😁"
+     },
+     {
+      "type": "emoji",
+      "count": 5,
+      "emoji": "❤"
+     }
+    ]
+  },
+  {
+   "id": 8739,
+   "type": "message",
+   "date": "2025-05-05T12:59:39",
+   "date_unixtime": "1746439179",
+   "edited": "2025-05-05T12:59:42",
+   "edited_unixtime": "1746439182",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 155359,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8740,
+   "type": "message",
+   "date": "2025-05-05T16:35:13",
+   "date_unixtime": "1746452113",
+   "edited": "2025-05-05T16:35:19",
+   "edited_unixtime": "1746452119",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "IMG_6618.MOV",
+   "file_size": 1739297,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 15183,
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 4,
+   "width": 960,
+   "height": 1280,
+   "text": [
+    "А потом я решила взять себя в руки и пошла решать проблему более эффективным путем. Вспомнила, что я давно не была на чистке, а закрытых камедонов у меня много. Начала с нее в ",
+    {
+     "type": "mention",
+     "text": "@quantum_clinic"
+    },
+    ". Мне попалась чудесная врач, с которой я теперь хочу дружить. Помимо базы она подсветила мне кое-что неочевидное. И самое главное открытие для меня: моя кожа перестала получать должное питание и увлажнение, потому что я увлеклась истреблением воспалений. Мой типичный стиль.\n\nДальше по плану у меня биоревитализация (введении в кожу сывороток на основе гиалуроновой кислоты) и BBL (фототерапия), потому что следы от воспалений сами уже не проходят. Все планирую делать там же с врачом Ириной Михайловной в филиале на Новокузнецкой. Всем здоровая кожа!"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "А потом я решила взять себя в руки и пошла решать проблему более эффективным путем. Вспомнила, что я давно не была на чистке, а закрытых камедонов у меня много. Начала с нее в "
+    },
+    {
+     "type": "mention",
+     "text": "@quantum_clinic"
+    },
+    {
+     "type": "plain",
+     "text": ". Мне попалась чудесная врач, с которой я теперь хочу дружить. Помимо базы она подсветила мне кое-что неочевидное. И самое главное открытие для меня: моя кожа перестала получать должное питание и увлажнение, потому что я увлеклась истреблением воспалений. Мой типичный стиль.\n\nДальше по плану у меня биоревитализация (введении в кожу сывороток на основе гиалуроновой кислоты) и BBL (фототерапия), потому что следы от воспалений сами уже не проходят. Все планирую делать там же с врачом Ириной Михайловной в филиале на Новокузнецкой. Всем здоровая кожа!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "custom_emoji",
+      "count": 28,
+      "document_id": "stickers/sticker (3).webp"
+     },
+     {
+      "type": "emoji",
+      "count": 14,
+      "emoji": "❤"
+     }
+    ]
+  },
+  {
+   "id": 8741,
+   "type": "message",
+   "date": "2025-05-05T21:05:51",
+   "date_unixtime": "1746468351",
+   "edited": "2025-05-05T21:05:56",
+   "edited_unixtime": "1746468356",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 89170,
+   "width": 960,
+   "height": 1280,
+   "text": [
+    "Обновила стикер на телефоне, чтобы окружающие не забывали, с кем имеют дело. Заказать такой же можно ",
+    {
+     "type": "text_link",
+     "text": "тут.",
+     "href": "https://detalinasheyu.com/women/stikery/stiker-abuser"
+    },
+    " Цена удовольствия 350₽"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Обновила стикер на телефоне, чтобы окружающие не забывали, с кем имеют дело. Заказать такой же можно "
+    },
+    {
+     "type": "text_link",
+     "text": "тут.",
+     "href": "https://detalinasheyu.com/women/stikery/stiker-abuser"
+    },
+    {
+     "type": "plain",
+     "text": " Цена удовольствия 350₽"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "custom_emoji",
+      "count": 44,
+      "document_id": "stickers/sticker (4).webp"
+     },
+     {
+      "type": "emoji",
+      "count": 17,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 7,
+      "emoji": "🍌"
+     }
+    ]
+  },
+  {
+   "id": 8742,
+   "type": "message",
+   "date": "2025-05-05T21:05:51",
+   "date_unixtime": "1746468351",
+   "edited": "2025-05-05T21:05:54",
+   "edited_unixtime": "1746468354",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 128658,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8743,
+   "type": "message",
+   "date": "2025-05-06T13:17:51",
+   "date_unixtime": "1746526671",
+   "edited": "2025-05-06T13:17:55",
+   "edited_unixtime": "1746526675",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 125831,
+   "width": 736,
+   "height": 981,
+   "text": "Зафиксировано настроение в красно-белый горошек. Рассказывайте, коллеги, у вас уже были polka dot транзакции?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Зафиксировано настроение в красно-белый горошек. Рассказывайте, коллеги, у вас уже были polka dot транзакции?"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "custom_emoji",
+      "count": 43,
+      "document_id": "stickers/sticker (5).webp"
+     },
+     {
+      "type": "emoji",
+      "count": 19,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 6,
+      "emoji": "🍓"
+     }
+    ]
+  },
+  {
+   "id": 8744,
+   "type": "message",
+   "date": "2025-05-06T13:17:51",
+   "date_unixtime": "1746526671",
+   "edited": "2025-05-06T13:17:54",
+   "edited_unixtime": "1746526674",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 104304,
+   "width": 707,
+   "height": 943,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8745,
+   "type": "message",
+   "date": "2025-05-06T13:17:51",
+   "date_unixtime": "1746526671",
+   "edited": "2025-05-06T13:17:54",
+   "edited_unixtime": "1746526674",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 22567,
+   "width": 390,
+   "height": 520,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8746,
+   "type": "message",
+   "date": "2025-05-06T13:17:51",
+   "date_unixtime": "1746526671",
+   "edited": "2025-05-06T13:17:54",
+   "edited_unixtime": "1746526674",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 34798,
+   "width": 480,
+   "height": 640,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8747,
+   "type": "message",
+   "date": "2025-05-06T13:17:51",
+   "date_unixtime": "1746526671",
+   "edited": "2025-05-06T13:17:54",
+   "edited_unixtime": "1746526674",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 60228,
+   "width": 736,
+   "height": 981,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8748,
+   "type": "message",
+   "date": "2025-05-06T13:17:51",
+   "date_unixtime": "1746526671",
+   "edited": "2025-05-06T13:17:54",
+   "edited_unixtime": "1746526674",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 73031,
+   "width": 736,
+   "height": 981,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8749,
+   "type": "message",
+   "date": "2025-05-06T13:17:51",
+   "date_unixtime": "1746526671",
+   "edited": "2025-05-06T13:17:54",
+   "edited_unixtime": "1746526674",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 89495,
+   "width": 632,
+   "height": 842,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8750,
+   "type": "message",
+   "date": "2025-05-06T13:17:51",
+   "date_unixtime": "1746526671",
+   "edited": "2025-05-06T13:17:55",
+   "edited_unixtime": "1746526675",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 78583,
+   "width": 568,
+   "height": 757,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8751,
+   "type": "message",
+   "date": "2025-05-06T13:17:52",
+   "date_unixtime": "1746526672",
+   "edited": "2025-05-06T13:17:55",
+   "edited_unixtime": "1746526675",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 60953,
+   "width": 665,
+   "height": 887,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8752,
+   "type": "message",
+   "date": "2025-05-06T16:24:16",
+   "date_unixtime": "1746537856",
+   "edited": "2025-05-06T16:24:21",
+   "edited_unixtime": "1746537861",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 102144,
+   "width": 960,
+   "height": 1280,
+   "text": [
+    "Миллениалы, которые любят ностальгировать, вы тут? У меня для вас кое-что есть. Это локальный бренд одежды для детей и взрослых с нотками ностальгии — \"Привет Мишка\". Когда я первый раз зашла к ним в ",
+    {
+     "type": "text_link",
+     "text": "телеграм-канал,",
+     "href": "https://t.me/+Ik09xvMxiWtjZDBi"
+    },
+    " то даже меня накрыла легкая ностальгия, не буду лукавить. \n\nСреди огромного ассортимента я за 0,001 секунды нашла себе ",
+    {
+     "type": "text_link",
+     "text": "джемпер",
+     "href": "https://vk.cc/cLEiqa"
+    },
+    " в крупный горох. Планы на него большие, на фристайле собрала такой расслабленный образ выходного дня. Добавила к нему смешнючую сумочку \"Газвода\". \n\nА еще в Мишке огромный выбор разных принтов. Они своего рода мультиверсы, адресованные разным поколениям, понимаемые на разных уровнях. Меня очаровали футболки с принтом ",
+    {
+     "type": "text_link",
+     "text": "\"Газированная вода\"",
+     "href": "https://vk.cc/cLEiBp"
+    },
+    " и ",
+    {
+     "type": "text_link",
+     "text": "\"Москва-80\".",
+     "href": "https://vk.cc/cLEiuE"
+    },
+    " Бренд представлен на Lamoda, что еще и очень удобно."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Миллениалы, которые любят ностальгировать, вы тут? У меня для вас кое-что есть. Это локальный бренд одежды для детей и взрослых с нотками ностальгии — \"Привет Мишка\". Когда я первый раз зашла к ним в "
+    },
+    {
+     "type": "text_link",
+     "text": "телеграм-канал,",
+     "href": "https://t.me/+Ik09xvMxiWtjZDBi"
+    },
+    {
+     "type": "plain",
+     "text": " то даже меня накрыла легкая ностальгия, не буду лукавить. \n\nСреди огромного ассортимента я за 0,001 секунды нашла себе "
+    },
+    {
+     "type": "text_link",
+     "text": "джемпер",
+     "href": "https://vk.cc/cLEiqa"
+    },
+    {
+     "type": "plain",
+     "text": " в крупный горох. Планы на него большие, на фристайле собрала такой расслабленный образ выходного дня. Добавила к нему смешнючую сумочку \"Газвода\". \n\nА еще в Мишке огромный выбор разных принтов. Они своего рода мультиверсы, адресованные разным поколениям, понимаемые на разных уровнях. Меня очаровали футболки с принтом "
+    },
+    {
+     "type": "text_link",
+     "text": "\"Газированная вода\"",
+     "href": "https://vk.cc/cLEiBp"
+    },
+    {
+     "type": "plain",
+     "text": " и "
+    },
+    {
+     "type": "text_link",
+     "text": "\"Москва-80\".",
+     "href": "https://vk.cc/cLEiuE"
+    },
+    {
+     "type": "plain",
+     "text": " Бренд представлен на Lamoda, что еще и очень удобно."
+    }
+   ],
+   "reactions": [
+     {
+      "type": "custom_emoji",
+      "count": 16,
+      "document_id": "video_files/sticker (4).webm"
+     },
+     {
+      "type": "emoji",
+      "count": 6,
+      "emoji": "❤‍🔥"
+     }
+    ]
+  },
+  {
+   "id": 8753,
+   "type": "message",
+   "date": "2025-05-06T16:24:16",
+   "date_unixtime": "1746537856",
+   "edited": "2025-05-06T16:24:19",
+   "edited_unixtime": "1746537859",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 90161,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8754,
+   "type": "message",
+   "date": "2025-05-06T16:24:16",
+   "date_unixtime": "1746537856",
+   "edited": "2025-05-06T16:24:19",
+   "edited_unixtime": "1746537859",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 136466,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8755,
+   "type": "message",
+   "date": "2025-05-06T16:24:16",
+   "date_unixtime": "1746537856",
+   "edited": "2025-05-06T16:24:19",
+   "edited_unixtime": "1746537859",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 63456,
+   "width": 941,
+   "height": 1255,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8756,
+   "type": "message",
+   "date": "2025-05-06T16:24:16",
+   "date_unixtime": "1746537856",
+   "edited": "2025-05-06T16:24:19",
+   "edited_unixtime": "1746537859",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 123837,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8757,
+   "type": "message",
+   "date": "2025-05-06T16:24:16",
+   "date_unixtime": "1746537856",
+   "edited": "2025-05-06T16:24:19",
+   "edited_unixtime": "1746537859",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 28561,
+   "width": 483,
+   "height": 644,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8758,
+   "type": "message",
+   "date": "2025-05-06T16:24:16",
+   "date_unixtime": "1746537856",
+   "edited": "2025-05-06T16:24:19",
+   "edited_unixtime": "1746537859",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 66781,
+   "width": 702,
+   "height": 936,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8759,
+   "type": "message",
+   "date": "2025-05-06T16:24:16",
+   "date_unixtime": "1746537856",
+   "edited": "2025-05-06T16:24:19",
+   "edited_unixtime": "1746537859",
+   "from": "фэшн транзакция",
+   "from_id": "channel1862341476",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 22137,
+   "width": 416,
+   "height": 554,
+   "text": "",
+   "text_entities": []
+  }
+ ]
+}
